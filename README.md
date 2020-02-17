@@ -11,4 +11,3 @@ The requirements for this repository can be found in a separate requirements.txt
 ### Dataset
 
 The dataset we analyse is stored in the data folder, originally sourced from [Kaggle](https://www.kaggle.com/airbnb/seattle/data)
-
