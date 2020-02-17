@@ -10,4 +10,8 @@ The requirements for this repository can be found in a separate requirements.txt
 
 ### Dataset
 
-The dataset we analyse is stored in the data folder, originally sourced from [Kaggle](https://www.kaggle.com/airbnb/seattle/data)
+The dataset we analyse is stored in the data folder, originally sourced from [Kaggle](https://www.kaggle.com/airbnb/seattle/data).
+
+* **calendar.csv** contains the listings, availability and price per date.
+* **listings.csv** contains detailed information on each listing including name, description and cancellation_policy.
+* **reviews** contains a columns containing the written review, along with information about the reviewer and listing id.
