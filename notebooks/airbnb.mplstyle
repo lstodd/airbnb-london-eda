@@ -1,0 +1,38 @@
+axes.titlesize : 18
+axes.labelsize : 16
+lines.linewidth : 2
+lines.markersize : 6
+xtick.labelsize : 14
+ytick.labelsize : 14
+
+patch.facecolor: 033333
+patch.antialiased: True
+
+font.size: 10.0
+
+axes.facecolor: white
+axes.linewidth: 1
+axes.grid: True
+axes.labelcolor: 033333
+axes.axisbelow: True
+axes.spines.right: False
+axes.spines.top: False
+axes.spines.left: True
+axes.spines.bottom: True
+
+axes.prop_cycle: cycler('color', ['d30d46', 'f96c5a', 'ffb0a9', 'f4406b', 'ffc7c2', '033333'])
+image.cmap: Greys
+
+xtick.color: 033333
+xtick.direction: out
+
+ytick.color: 033333
+ytick.direction: out
+
+grid.color: white
+grid.linestyle: -
+
+figure.facecolor: white
+figure.edgecolor: 0.75
+figure.figsize: 6, 5
+figure.autolayout: False
