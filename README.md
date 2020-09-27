@@ -17,7 +17,9 @@ Libraries used:
 
 ### Dataset
 
-The dataset we analyse is stored in the data folder, originally sourced from [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
+The datasets we analyse are stored in the data folder, originally sourced from [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
+
+We compare 2020 and 2019 data, to see the difference before and after coronavirus. 
 
 * **calendar.csv** contains the listings, availability and price per date.
 * **listings.csv** contains detailed information on each listing including name, description and cancellation_policy.
