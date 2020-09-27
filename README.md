@@ -10,9 +10,14 @@ The requirements for this repository can be found in a separate requirements.txt
 
 ```pip install -r requirements.txt```
 
+Libraries used:
+* pandas
+* matplotlib
+* seaborn
+
 ### Dataset
 
-The dataset we analyse is stored in the data folder, originally sourced from [Kaggle](https://www.kaggle.com/airbnb/seattle/data).
+The dataset we analyse is stored in the data folder, originally sourced from [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
 
 * **calendar.csv** contains the listings, availability and price per date.
 * **listings.csv** contains detailed information on each listing including name, description and cancellation_policy.
