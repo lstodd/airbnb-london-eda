@@ -1,7 +1,9 @@
 # Airbnb London EDA
 
+The github link for this project is: https://github.com/lstodd/airbnb-london-eda
+
 In 2020, many industries have taken a hit due to coronavirus, particularly the travel industry. 
-Let's take a look at how London airbnb stays have changed by comparing 2020 to 2019.
+Let's take a look at how London airbnb rentals have changed by comparing 2020 to 2019.
 
 
 ### Requirements & Installation

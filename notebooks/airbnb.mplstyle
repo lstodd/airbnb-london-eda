@@ -20,7 +20,7 @@ axes.spines.top: False
 axes.spines.left: True
 axes.spines.bottom: True
 
-axes.prop_cycle: cycler('color', ['d30d46', 'f96c5a', 'ffb0a9', 'f4406b', 'ffc7c2', '033333'])
+axes.prop_cycle: cycler('color', ['ff5a5f', '00a699', 'fc642d', 'f4406b', 'ffc7c2', '033333'])
 image.cmap: Greys
 
 xtick.color: 033333
