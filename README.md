@@ -41,7 +41,9 @@ We see that the volume of stays has changed dramatically between 2019 and 2020.
 ![Enter message](/images/before_after_reviews.PNG)
 
 The sentiment of the reviews has generally remained the same, which we can see from the 
-corresponding wordclouds from the 2019 and 2020 reviews respectively having the same top words.
+corresponding wordclouds from the 2019 and 2020 reviews respectively having the same top words. 
+This evidence contradicts the idea that there might be more of a focus on reporting the 
+cleanliness of airbnb properties. 
 
 ![Enter message](/images/2019_wordcloud.PNG) ![Enter message](/images/2020_wordcloud.PNG)
  
