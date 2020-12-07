@@ -1,5 +1,10 @@
 # Airbnb London EDA
 
+## Motivation
+We know that the Coronavirus-19 virus has affected the travel industry a lot. In this 
+piece of analysis we try to understand the impact on volume, availability and sentiment of 
+airbnb guests. 
+
 The github link for this project is: https://github.com/lstodd/airbnb-london-eda
 
 In 2020, many industries have taken a hit due to coronavirus, particularly the travel industry. 
@@ -19,7 +24,8 @@ Libraries used:
 
 ### Dataset
 
-The datasets we analyse are stored in the data folder, originally sourced from [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
+The datasets we analyse are too big to store in github. The files were originally downloaded using the 
+following link, selecting data from London in August 2019 and 2020: [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
 
 We compare 2020 and 2019 data, to see the difference before and after coronavirus. 
 
