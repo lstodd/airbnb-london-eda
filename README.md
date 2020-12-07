@@ -19,8 +19,11 @@ The requirements for this repository can be found in a separate requirements.txt
 
 Libraries used:
 * pandas
+* numpy
 * matplotlib
 * seaborn
+* wordcloud
+
 
 ### Datasets
 
