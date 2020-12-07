@@ -22,7 +22,7 @@ Libraries used:
 * matplotlib
 * seaborn
 
-### Dataset
+### Datasets
 
 The datasets we analyse are too big to store in github. The files were originally downloaded using the 
 following link, selecting data from London in August 2019 and 2020: [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
@@ -32,3 +32,12 @@ We compare 2020 and 2019 data, to see the difference before and after coronaviru
 * **calendar.csv** contains the listings, availability and price per date.
 * **listings.csv** contains detailed information on each listing including name, description and cancellation_policy.
 * **reviews** contains a columns containing the written review, along with information about the reviewer and listing id.
+
+
+## Summary
+
+We see that the volume of stays has changed dramatically between 2019 and 2020. 
+
+![Enter message](/images/before_after_reviews.PNG)
+
+
